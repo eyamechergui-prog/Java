@@ -1,0 +1,18 @@
+# Eclipse metadata
+.metadata/
+*.log
+*.tmp
+*.bak
+*.swp
+bin/
+target/
+*.class
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Node / React (si tu as un projet React dans le workspace)
+node_modules/
+dist/
+.vscode/
